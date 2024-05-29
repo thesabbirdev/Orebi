@@ -15,7 +15,6 @@ import Login from "./pages/Login";
 import UserPopup from "./components/layout/UserPopup";
 import SignUp from "./pages/SignUp";
 import My_Acoount from "./pages/My_Acoount";
-import { ContextApi } from "./components/ContextApi";
 import ProductDetails from "./pages/ProductDetails";
 import Cart from "./pages/Cart";
 import Checkout from "./pages/Checkout";
